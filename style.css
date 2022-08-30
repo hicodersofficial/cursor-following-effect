@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "poppins", sans-serif;
+  height: 100vh;
+  background: #17171d;
+  cursor: url(./mouse.png), auto !important;
+}
+
+svg {
+  width: 90%;
+  height: 50%;
+}
